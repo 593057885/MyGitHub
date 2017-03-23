@@ -5,7 +5,7 @@
 ## 毕业设计题目是B/S模式下的办公家具企业连锁店管理系统的设计与实现
 
 ---
-![背景图片](https://github.com/593057885/MyGitHub/blob/master/idream.jpg?raw=true)
+![背景图片](https://github.com/593057885/MyGitHub/blob/master/background6.jpg?raw=true)
 ### 目录
 [TPC]
 ### 到现在为止已经完成的工作有
@@ -21,14 +21,14 @@
 - 4.编码任务：
   4.1前台页面编码：
   4.2后台编码：
-     系统搭建：采用当前软件行业比较流行的JavaWeb技术，运用MVC分层设计思想，使用Hibernate+Spring+SpringMVC来搭建环境,设计实体类（entity）、数据库访问类（dao）、服务类（service）、控制层类（web/controller）配置web.xml、spring.xml、spring-hibernate.xml、spring-mvc.xml，创建conf.properties文件存储数据库连接字段，配置ehcache.xml优化系统响应时间。
+     > 系统搭建：采用当前软件行业比较流行的JavaWeb技术，运用MVC分层设计思想，使用Hibernate+Spring+SpringMVC来搭建环境,设计实体类（entity）、数据库访问类（dao）、服务类（service）、控制层类（web/controller）配置web.xml、spring.xml、spring-hibernate.xml、spring-mvc.xml，创建conf.properties文件存储数据库连接字段，配置ehcache.xml优化系统响应时间。
 
 8:43 2016-12-26
 
 ## 系统开发使用的工具是MyEclipse2014，数据库是MySQL
-```
-心得：要想写好后台，需要对前台比较熟悉，特别是Ajax传输数据这部分，对于表格的操作，以及编写个性化对话框，使用ExtJS能达到更好的效果，对于前台事件响应的话使用JQuery来做会省事很多，注重写单元测试类，来及时验证功能的完整性
-```
+
+> 心得：要想写好后台，需要对前台比较熟悉，特别是Ajax传输数据这部分，对于表格的操作，以及编写个性化对话框，使用ExtJS能达到更好的效果，对于前台事件响应的话使用JQuery来做会省事很多，注重写单元测试类，来及时验证功能的完整性
+
 
 8:53 2016-12-30
 
@@ -196,11 +196,16 @@ Java技术自学经验总结：拿到技术，先运行一个标准的HelloWorld
 ## 毕设论文模块：
 ### 需求描述文档
 -[] 系统给分析与设计
-- [] 数据库设计
+
+-[x] 数据库设计
+
 -[] 开发接口API docs & 源代码注释
-- [x] 用户帮助（前台）
+
+-[x] 用户帮助（前台）
+
 -[x] 管理员手册（后台）
-- [] 测试文档
+
+-[] 测试文档
 
 0:08 2017-2-18
 eclipse egit使用从GitHub获取项目

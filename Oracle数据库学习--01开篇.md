@@ -3,6 +3,7 @@
 标签：Oracle数据库
 
 ---
+![背景图片](https://github.com/593057885/MyGitHub/blob/master/background6.jpg)
 ## 数据库简介
 
  - 小型：access、foxbase

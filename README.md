@@ -5,7 +5,7 @@
 ## 毕业设计题目是B/S模式下的办公家具企业连锁店管理系统的设计与实现
 
 ---
-![背景图片](MyGitHub/idream.jpg)
+![背景图片](https://github.com/593057885/MyGitHub/blob/master/idream.jpg?raw=true)
 ### 到现在为止已经完成的工作有
 
 1.需求分析：系统用户有哪些，系统有哪些模块，每个模块有哪些功能

@@ -5,7 +5,7 @@
 ## 毕业设计题目是B/S模式下的办公家具企业连锁店管理系统的设计与实现
 
 ---
-![背景图片](https://note.youdao.com/yws/api/personal/file/9836B9123B844BC6AB87FF849C0F57EF?method=getImage&cstk=-H2352Nw)
+![背景图片](https://github.com/593057885/MyGitHub/blob/master/background6.jpg?raw=true)
 ### 目录
 [TOC]
 ### 到现在为止已经完成的工作有
